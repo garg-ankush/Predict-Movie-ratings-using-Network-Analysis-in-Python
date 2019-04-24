@@ -7,4 +7,4 @@
   Can relationships between directors and actors add value in predicting IMDB scores. 
   
 ### Why:
-  There is an oppurtunity in automating projects using machine learning even when attribute data may not be available.
+  There is an oppurtunity in automating projects using machine learning even when attribute data may not be available. Solely   automating tasks based on relationships is possible.
